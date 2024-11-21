@@ -23,9 +23,9 @@ func LogInput(input string) {
 }
 
 func LogEscolha(choice int) {
-	infoLogger.Println("Choice:", choice)
+	infoLogger.Println("Escolha:", choice)
 }
 
 func LogResposta(response string) {
-	infoLogger.Println("Response:", response)
+	infoLogger.Println("Resposta:", response)
 }
